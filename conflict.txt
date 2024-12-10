@@ -1,0 +1,1 @@
+Another conflict line in a conflicting file!
